@@ -44,15 +44,21 @@ O Android SDk vem com um emulador, mas ainda é muito lento, então vamos instal
 A instalação do emulador é *opcional*, você pode usar o emulador padrão ou o seu *próprio dispositivo*.
 
 O GenyMotion usa o *VirtualBox* para criar os dispositivos virtuais. Mas no *Linux* e no *Mac* é necessário instalar o *virtualBox* separadamente, então vamos começar com a instalação do *VirtualBox*.
+
 * [Linux](https://www.virtualbox.org/wiki/Linux_Downloads)
 * [Mac](http://download.virtualbox.org/virtualbox/5.0.14/VirtualBox-5.0.14-105127-OSX.dmg)
+
 Cada versão do Linux, tem um instalador próprio, então o link lhe envriará para página com a lista.
 
 * [Windows](http://files2.genymotion.com/genymotion/genymotion-2.6.0/genymotion-2.6.0-vbox.exe)
+
 Ubuntu 14.04 e versões anteriores ou o Debian 8
+
 * [Linux X86](http://files2.genymotion.com/genymotion/genymotion-2.6.0/genymotion-2.6.0-linux_x86.bin)
 * [Linux x64](http://files2.genymotion.com/genymotion/genymotion-2.6.0/genymotion-2.6.0-linux_x64.bin)
+
 Ubuntu 15.04 e versões mais novas.
+
 * [Linux x64](http://files2.genymotion.com/genymotion/genymotion-2.6.0/genymotion-2.6.0-ubuntu15_x64.bin)
 
 O GennyMotion precisa de um cadastro, o recomendado você faça [cadastro](https://www.genymotion.com/account/create/) no site.
