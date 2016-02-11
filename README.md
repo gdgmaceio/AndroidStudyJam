@@ -64,6 +64,6 @@ Ubuntu 15.04 e versões mais novas.
 O GennyMotion precisa de um cadastro, o recomendado você faça [cadastro](https://www.genymotion.com/account/create/) no site.
 
 ## Drivers
-No windows é necessário instalar drivers para fazer a comunicação com um dispositivo real, se você pretende usar seu aparelho e usa windows acesse [essa página](http://developer.android.com/intl/pt-br/tools/extras/oem-usb.html) e clink no link do fabricante do seu aparelho.
+No windows é necessário instalar drivers para fazer a comunicação com um dispositivo real, se você pretende usar seu aparelho e usa windows acesse [essa página](http://developer.android.com/intl/pt-br/tools/extras/oem-usb.html) e click no link do fabricante do seu aparelho.
 Se seu aparelho é um Nexus, siga [esse link](http://developer.android.com/intl/pt-br/sdk/win-usb.html).
 
