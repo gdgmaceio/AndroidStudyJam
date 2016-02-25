@@ -39,6 +39,15 @@ Versões anteriores rode
 
 		sudo apt-get install ia32-libs
 
+## Android Studio
+Para tornar o desenvolvimento mais prático, o Google fez uma parceria com uma empresa chanda IntelliJ, e fizeram uma nova ferramenta para editar o código. Essa é ferramenta é uma IDE (Integrated Development Environment), é como um editor de texto, mas com várias funções. É através do **Android Studio** que vamos escrever o código do nosso app Android
+
+* [Windows](https://dl.google.com/dl/android/studio/install/1.5.1.0/android-studio-ide-141.2456560-windows.exe)
+* [Linux](https://dl.google.com/dl/android/studio/ide-zips/1.5.1.0/android-studio-ide-141.2456560-linux.zip)
+* [Mac](https://dl.google.com/dl/android/studio/install/1.5.1.0/android-studio-ide-141.2456560-mac.dmg)
+
+No *Windows* e no *Mac* só precisa executar o arquivo baixado. Já no *Linux* só precisa extrair, pra executar o android studio rode o arquivo `studio.sh` que fica dentro da pasta `bin`, dentro da pasta do android studio.
+
 ## Emulador
 O Android SDk vem com um emulador, mas ainda é muito lento, então vamos instalar outro emulador, o GennMotion.
 A instalação do emulador é *opcional*, você pode usar o emulador padrão ou o seu *próprio dispositivo*.
