@@ -3,20 +3,21 @@
 #### [Sign Up - Crie sua conta](Https://github.com/join?source=header-home)
 
 ## Basic Commands
-#### 1 - Adicionando novo repositorio em um git init
-	git remote add origin git@github.com:SEU_USUARIO/NOME_PROJETO.git
 
-#### 2 - Configurando informações sobre o autor dos commits:
+#### 1 - Configurando informações sobre o autor dos commits:
     git config --global user.name "SEU_NOME"
     git config --global user.email "SEU_EMAIL"
 
-#### 3 - Criando um repositório local:
+#### 2 - Criando um repositório local:
     cd meuprojeto
     git init
 
 Para ter certeza que o repositório foi criado:  
     
     git status
+
+#### 3 - Adicionando novo repositorio em um git init
+	git remote add origin git@github.com:SEU_USUARIO/NOME_PROJETO.git
 
 #### 4 - Adicionando arquivos novos ou modificados no Stage:
 
