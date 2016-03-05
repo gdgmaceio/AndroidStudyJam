@@ -77,4 +77,4 @@ No windows é necessário instalar drivers para fazer a comunicação com um dis
 Se seu aparelho é um Nexus, siga [esse link](http://developer.android.com/intl/pt-br/sdk/win-usb.html).
 
 # Git
-Galera, [aqui](github.md) vocês podem aprender mais sobre como usar o Git.
+Galera, [aqui](github.MD) vocês podem aprender mais sobre como usar o Git.
