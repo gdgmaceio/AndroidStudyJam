@@ -19,3 +19,6 @@ O app deverá transitar entre telas via Itent
 
 ## Utilizar variáveis.
 O app deverá usar variáveis.
+
+## Utilizar Imagens
+Pode ser em um ImageButtom ou ImageView
