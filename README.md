@@ -76,5 +76,10 @@ O GennyMotion precisa de um cadastro, o recomendado você faça [cadastro](https
 No windows é necessário instalar drivers para fazer a comunicação com um dispositivo real, se você pretende usar seu aparelho e usa windows acesse [essa página](http://developer.android.com/intl/pt-br/tools/extras/oem-usb.html) e click no link do fabricante do seu aparelho.
 Se seu aparelho é um Nexus, siga [esse link](http://developer.android.com/intl/pt-br/sdk/win-usb.html).
 
+# Requisitos do Projeto Final
+O projeto final será construir um app usando o conhecimento adiquirido durante o curso.  
+Como forma de avaliação alguns requisitos deverão ser atingidos afim de receber o certificado.
+Esses requisitos estão listados [aqui](requisitos.md).
+
 # Git
 Galera, [aqui](github.MD) vocês podem aprender mais sobre como usar o Git.
