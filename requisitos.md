@@ -22,3 +22,6 @@ O app deverá usar variáveis.
 
 ## Utilizar Imagens
 Pode ser em um ImageButtom ou ImageView
+
+## Ensinar 5 coisas
+O projeto final deve ensinar 5 coisas ao usuário , o tema é livre.
