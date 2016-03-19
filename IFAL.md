@@ -41,6 +41,13 @@ Avaliação com base nos [requisitos] (https://github.com/gdgmaceio/AndroidStudy
     * Ter ao menos quatro interações com usuário **OK**
     * Utilizar Itent **OK**
     * Utilizar variáveis. **OK**
-    * Utilizar Imagens **OK**     
+    * Utilizar Imagens **OK**   
+   
+* Emerson Laurentino [Pizza](https://github.com/emersonlaurentino/androiddevstudyjams)
+    * Utilizar ViewGroups 
+    * Ter ao menos quatro interações com usuário **OK**
+    * Utilizar Itent 
+    * Utilizar variáveis. **OK**
+    * Utilizar Imagens   
 
     
