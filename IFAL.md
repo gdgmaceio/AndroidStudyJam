@@ -1,4 +1,5 @@
 #Avaliação IFAL
+Avaliação com base nos [requisitos] (https://github.com/gdgmaceio/AndroidStudyJam/blob/master/requisitos.md) 
 
 * Bruno Eris [FastImc](https://github.com/brunoeris/fast-imc)
     * Utilizar ViewGroups
