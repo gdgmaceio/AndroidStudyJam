@@ -50,4 +50,30 @@ Avaliação com base nos [requisitos] (https://github.com/gdgmaceio/AndroidStudy
     * Utilizar variáveis. **OK**
     * Utilizar Imagens   
 
-    
+* Rafael Rocha [Calculador](https://github.com/Rafaellrs/Android-Study-Jam)
+    * Utilizar ViewGroups **OK**
+    * Ter ao menos quatro interações com usuário **OK**
+    * Utilizar Itent 
+    * Utilizar variáveis. **OK**
+    * Utilizar Imagens   
+   
+* Eric Leão [SmartWallet](https://github.com/ericcleao/SmartWallet)
+    * Utilizar ViewGroups **OK**
+    * Ter ao menos quatro interações com usuário **OK**
+    * Utilizar Itent **OK**
+    * Utilizar variáveis. **OK**
+    * Utilizar Imagens **OK**  
+   
+* Georgia Demas [LoveYourSkin](https://github.com/georgiademas/Love-Your-Skin)
+    * Utilizar ViewGroups **OK**
+    * Ter ao menos quatro interações com usuário
+    * Utilizar Itent **OK**
+    * Utilizar variáveis. **OK**
+    * Utilizar Imagens **OK**  
+
+* Pedro Henrique [ProjetoFinal](https://github.com/sufex00/GDG-Android)
+    * Utilizar ViewGroups **OK**
+    * Ter ao menos quatro interações com usuário **OK**
+    * Utilizar Itent **OK**
+    * Utilizar variáveis. **OK**
+    * Utilizar Imagens **OK**      
